@@ -12,6 +12,7 @@ namespace E_Raport_SMA
             DashboardGuru dashboardGuru = new DashboardGuru();
             dashboardGuru.Show();
             this.Hide();
+            //tes
         }
     }
 }
